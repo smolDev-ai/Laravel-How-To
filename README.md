@@ -7,6 +7,6 @@ This is an application that allows users to create how-tos for others, or keep t
 To learn about Laravel && PHP.
 
 ## How Can I Use This?
-> Clone the project
-> In the src folder run either `yarn` or `npm install` or `pnpm install`
+* Clone the project
+* In the src folder run either `yarn` or `npm install` or `pnpm install`
 **More instructions to be added as I work on the application**
