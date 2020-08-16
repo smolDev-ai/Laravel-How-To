@@ -8,5 +8,5 @@ To learn about Laravel && PHP.
 
 ## How Can I Use This?
 * Clone the project
-* In the src folder run either `yarn` or `npm install` or `pnpm install`
+* In the how-to folder run either `yarn` or `npm install` or `pnpm install`
 * **More instructions to be added as I work on the application**
